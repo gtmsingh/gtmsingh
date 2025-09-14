@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Identity security<br>🌱 I’m currently learning fullstack development and theoretical AI<br>💬 Ask me about Node JS and scalability.<br>⚡ Fun fact await + catch = fire and forget
+🔭 I’m currently working on Identity security<br>🌱 I’m currently learning fullstack development and theoretical AI<br>💬 Ask me about Node JS and scalability.<br>⚡ Fun fact: await + catch = fire and forget
 
 
 ## 🌐 Socials:
